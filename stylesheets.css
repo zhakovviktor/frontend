@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: azure;
+}
+
+label, textarea, button, input {
+    display: block;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+label {
+    margin-bottom: 4px;
+    color: darkslategrey;
+}
+
+input {
+    margin-bottom: 4px;
+    width: 100%;
+    border: 1px solid darkslategrey;
+    background-color: azure;
+}
+
+textarea {
+    margin-bottom: 4px;
+    width: 100%;
+    border: 1px solid darkslategrey;
+    background-color: azure;
+}
+
+button {
+    background-color: azure;
+    color: darkslategrey;
+    border: 1px solid darkslategrey;
+    margin: 10px auto 10px auto;
+    width: 50px;
+    height: 30px;
+}
